@@ -55,9 +55,9 @@ like installation of TYPO3 CMS or security.
 .. toctree::
    :hidden:
 
-   Contribution Workflow    <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>
-   Documentation Rendering  <https://docs.typo3.org/typo3cms/RenderTYPO3DocumentationGuide/>
-   Extbase & Fluid          <https://docs.typo3.org/typo3cms/ExtbaseGuide/>  
-   Frontend Localization    <https://docs.typo3.org/typo3cms/FrontendLocalizationGuide/>
-   Installation and Upgrade <https://docs.typo3.org/typo3cms/InstallationGuide/>
-   Security                 <https://docs.typo3.org/typo3cms/SecurityGuide/>
+   Contribution Workflow ➜    <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>
+   Documentation Rendering ➜  <https://docs.typo3.org/typo3cms/RenderTYPO3DocumentationGuide/>
+   Extbase & Fluid ➜          <https://docs.typo3.org/typo3cms/ExtbaseGuide/>
+   Frontend Localization ➜    <https://docs.typo3.org/typo3cms/FrontendLocalizationGuide/>
+   Installation and Upgrade ➜ <https://docs.typo3.org/typo3cms/InstallationGuide/>
+   Security ➜                 <https://docs.typo3.org/typo3cms/SecurityGuide/>
