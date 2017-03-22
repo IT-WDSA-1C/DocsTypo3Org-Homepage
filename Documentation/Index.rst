@@ -91,8 +91,7 @@ All manuals
    typo3cms/CheatSheets/Index
    Changelog 7 ➜      <https://docs.typo3.org/typo3cms/extensions/core/>
    Changelog 8-dev ➜  <https://docs.typo3.org/typo3cms/extensions/core/8-dev>
-   Examples/Index
-   extensions/Index
+   typo3cms/extensions/Index
    typo3cms/GuidesAndTutorials/Index
    typo3cms/References/Index
    Snippets (NEW!) ➜  <https://docs.typo3.org/typo3cms/Snippets/>
